@@ -11,7 +11,7 @@ h1 {
   color: #fcfbfa;
   text-align: center;
   border-style: double;
-  border-color: #aefa84
+  border-color: #fcfbfa
   
 }
 p {
@@ -20,7 +20,8 @@ p {
   color: #fcfbfa;
   text-align: center;
   border-style: double;
-  border-color: #aefa84;
+  border-color: #fcfbfa;
+  
 
 }
 
@@ -32,3 +33,5 @@ p {
 <p>In this breif site, we will learn so may things about Women's Rights!</p>
 
 <p> We will learn about things like: The History of Women's Rights, What is happening in the present day, and why it is so important!</p>
+
+
